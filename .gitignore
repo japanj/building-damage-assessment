@@ -2,5 +2,4 @@ train/
 test/
 hold/
 dlmodels/
-
 *.h5
