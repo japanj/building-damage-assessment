@@ -1,4 +1,5 @@
 train/
 test/
 hold/
-dlmodels/ 
+dlmodels/
+*.h5
